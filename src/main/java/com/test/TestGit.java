@@ -6,5 +6,6 @@ package com.test;
 public class TestGit {
 
     TestGit tg = new TestGit();
+    TestGit tg2 = new TestGit();
 
 }

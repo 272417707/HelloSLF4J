@@ -10,10 +10,7 @@ public class TestGit {
     public void testGit(){
         System.out.print("1");
         System.out.print("1");
-        //branch2
-        //branch2
-        //branch1
-        //branch3
+        //master
     }
 
 }
